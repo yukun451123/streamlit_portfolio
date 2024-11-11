@@ -4,7 +4,7 @@ import streamlit as st
 st.title('StreamlitによるApp')
 st.header('レッスン3: テキスト要素の追加')
 
-# テキストの表示 
+# テキストの表示
 st.text('これは通常のテキストです。')
 
 # Markdown形式のテキスト
